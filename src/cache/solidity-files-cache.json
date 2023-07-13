@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\MSI Laptop\\Desktop\\Code\\JavaScript\\Delete\\Function-Frontend\\src\\Contracts\\Token.sol": {
+      "lastModificationDate": 1689248978254,
+      "contentHash": "7630749b9ea6c91dac603b63d1e6bd75",
+      "sourceName": "Contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.18"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    }
+  }
+}
